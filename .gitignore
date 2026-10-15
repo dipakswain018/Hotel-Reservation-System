@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Maven build output
+target/
+
+# Eclipse and STS workspace settings
+.settings/
+.project
+.classpath
+.factorypath
+
+# IntelliJ
+.idea/
+*.iml
+
+# Environment and secrets
+.env
+application-local.properties
